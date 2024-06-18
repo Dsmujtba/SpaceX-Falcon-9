@@ -1,4 +1,4 @@
-# SpaceX Falcon 9 Launch Predtiction Project
+# SpaceX Falcon 9 Launch Prediction Project
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
